@@ -18,16 +18,17 @@ For average Discriminant users
 # User guide
 
 ```
-git clone Здесь Ссылка
+git clone: [link]https://github.com/Jigomas/Quadratic-Equation-Solver.git
 ```
 
 You need to download this file and then open it in VS Code.
-guide: [link](https://github.com/Jigomas/Studying_In_MIPT/tree/main)
+Follow this guide: [link]https://code.visualstudio.com/docs/cpp/config-mingw
 
 Then you need to Compile this file by pressing Ctrl + ` ,
 and then typing in console theese two strings to  run it:
-g++ .\Code_To_Solve_Quadratic_Equations.cpp (and Then Enter)
-.\a.exe (and Then Enter)
+`g++ .\Code_To_Solve_Quadratic_Equations.cpp .\Tests.h .\Exit_Codes.h .\Inputs.h .\Solvings.h .\All_Definitions.cpp`
+
+`.\a.exe (and Then Enter)`
 
 
 ##    Contact information about suggestions and bugs is here
